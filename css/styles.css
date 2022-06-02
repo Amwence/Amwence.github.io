@@ -22,11 +22,11 @@ article {
 }
 
 .menu {
-    a : link {
+    a:link {
         color: #FF1493;
     }
 
-    a : visited {
+    a:visited {
         color:#8B008B;
     }
 
