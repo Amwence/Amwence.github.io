@@ -1,9 +1,11 @@
 body {
-    color:black;
+    background-color:black;
+    color: lightgrey;
 }
 h1 {
     color: lawngreen;
 }
 section {
-    color: grey;
+    background-color: black;
+    color: lightgrey;
 }
