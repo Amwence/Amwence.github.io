@@ -1,9 +1,16 @@
 body {
     background-color:black;
     color: lightgrey;
+    
 }
 h1 {
     color: lawngreen;
+}
+
+h2 {
+    color: grey;
+    font-style: oblique;
+    font-family: monospace;
 }
 section {
     background-color: black;
