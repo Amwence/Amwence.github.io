@@ -20,3 +20,14 @@ article {
     background-color: black;
     color: lightgrey
 }
+
+.menu {
+    a : link {
+        color: #FF1493;
+    }
+
+    a : visited {
+        color:#8B008B;
+    }
+
+}
