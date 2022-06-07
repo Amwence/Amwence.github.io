@@ -17,24 +17,21 @@ h2 {
     font-style: oblique;
     font-family: monospace;
 }
+
 section {
     background-color: black;
     color: lightgrey;
 }
+
 article {
     background-color: black;
     color: lightgrey
 }
+
 a:link {
         color: #FF1493;
     }
 
 a:visited {
         color:#8B008B;
-.menu {
-    
-
-    
     }
-
-}
